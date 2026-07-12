@@ -1,0 +1,6 @@
+{
+  "name": "Jarvis",
+  "description": "A powerful, futuristic voice assistant with smart decision making, Gemini AI reasoning, call and notification management, phone automation, and modern M3 UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
